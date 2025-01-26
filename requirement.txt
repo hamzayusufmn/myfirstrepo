@@ -1,0 +1,3 @@
+ requirements.txt
+# this will allow me to add dependenices here
+pip freeze > requirements.txt
